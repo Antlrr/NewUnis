@@ -5,25 +5,35 @@ droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
 category: units
-regionSuffix: "-4"
+itemCapacity: 1650
+liquidCapacity: 190
+researchCostMultiplier: 0.05
 consumes: {
    power: 3
+   items: [
+      silicon/1650
+   ]
+   liquid: {
+      liquid: cryofluid
+      amount: 3.5
+   }
 }
 plans: [
    {
    unit: vela
    requirements: [
-      surge-wall-large/1
+      nova/15
       ]
-      time: 60
+      time: 4350
    }
    {
    unit: corvus
    requirements: [
-      surge-wall-large/1
+      nova/18
       ]
-      time: 60
+      time: 13300
    }
+]
 ]
 research: 01ground-assembler
 requirements: [
