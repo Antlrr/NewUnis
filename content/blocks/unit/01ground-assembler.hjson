@@ -7,6 +7,7 @@ droneConstructTime: 90
 category: units
 itemCapacity: 1650
 liquidCapacity: 190
+researchCostMultiplier: 0.5
 consumes: {
    power: 3
    items: [
