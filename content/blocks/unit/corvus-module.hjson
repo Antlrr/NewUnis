@@ -1,0 +1,12 @@
+type: UnitAssemblerModule
+health: 10
+category: units
+size: 2
+tier: 3
+consumes: {
+   power: 3
+   }
+research: vela-module
+requirements: [
+   silicon/1
+]
