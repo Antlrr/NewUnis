@@ -5,6 +5,7 @@ droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
 category: units
+itemCapacity: 700
 consumes: {
    power: 3
    items: [
@@ -17,7 +18,7 @@ plans: [
    requirements: [
       dagger/15
       ]
-      time: 5400
+      time: 5000
    }
    {
    unit: reign
