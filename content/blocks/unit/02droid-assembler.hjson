@@ -9,7 +9,7 @@ itemCapacity: 1650
 liquidCapacity: 190
 researchCostMultiplier: 0.05
 consumes: {
-   power: 3
+   power: 16
    items: [
       silicon/1650
    ]
