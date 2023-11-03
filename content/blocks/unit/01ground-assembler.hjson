@@ -5,6 +5,7 @@ droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
 category: units
+regionSuffix: "-4"
 consumes: {
    power: 3
 }
