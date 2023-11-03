@@ -13,9 +13,10 @@ plans: [
    {
    unit: scepter
    requirements: [
-      surge-wall-large/1
+      dagger/15
+      silicon/700
       ]
-      time: 60
+      time: 5400
    }
    {
    unit: reign
