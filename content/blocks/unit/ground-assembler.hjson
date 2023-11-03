@@ -17,13 +17,6 @@ plans: [
       time: 60
    }
    {
-   unit: reign
-   requirements: [
-      surge-wall-large/1
-      ]
-      time: 60
-   }
-   {
    unit: vela
    requirements: [
       surge-wall-large/1
@@ -31,14 +24,21 @@ plans: [
       time: 60
    }
    {
-   unit: corvus
+   unit: arkyid
    requirements: [
       surge-wall-large/1
       ]
       time: 60
    }
    {
-   unit: arkyid
+   unit: reign
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+   {
+   unit: corvus
    requirements: [
       surge-wall-large/1
       ]
