@@ -1,0 +1,23 @@
+type: UnitAssembler
+size: 5
+areaSize: 15
+droneType: assembly-drone
+dronesCreated: 4
+droneConstructTime: 90
+category: units
+consumes: {
+   power: 3
+}
+plans: [
+   {
+   unit: dagger
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+]
+research: multiplicative-reconstructor
+requirements: [
+   silicon/1
+]
