@@ -5,11 +5,11 @@ droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
 category: units
-itemCapacity: 700
+itemCapacity: 1650
 consumes: {
    power: 3
    items: [
-      silicon/700
+      silicon/1650
    ]
 }
 plans: [
@@ -23,9 +23,9 @@ plans: [
    {
    unit: reign
    requirements: [
-      surge-wall-large/1
+      dagger/20
       ]
-      time: 60
+      time: 14400
    }
 ]
 research: multiplicative-reconstructor
