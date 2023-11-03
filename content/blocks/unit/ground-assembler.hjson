@@ -1,6 +1,6 @@
 type: UnitAssembler
-size: 5
-areaSize: 15
+size: 4
+areaSize: 13
 droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
@@ -10,7 +10,14 @@ consumes: {
 }
 plans: [
    {
-   unit: dagger
+   unit: scepter
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+   {
+   unit: reign
    requirements: [
       surge-wall-large/1
       ]
