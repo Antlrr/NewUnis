@@ -1,0 +1,31 @@
+type: UnitAssembler
+size: 4
+areaSize: 14
+droneType: assembly-drone
+dronesCreated: 4
+droneConstructTime: 90
+category: units
+consumes: {
+   power: 3
+}
+plans: [
+   {
+   unit: vela
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+   {
+   unit: corvus
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+]
+research: multiplicative-reconstructor
+requirements: [
+   silicon/1
+]
+
