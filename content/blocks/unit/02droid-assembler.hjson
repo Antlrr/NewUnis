@@ -22,14 +22,14 @@ plans: [
    {
    unit: vela
    requirements: [
-      nova/15
+      nova/12
       ]
       time: 4350
    }
    {
    unit: corvus
    requirements: [
-      nova/18
+      nova/16
       ]
       time: 13300
    }
