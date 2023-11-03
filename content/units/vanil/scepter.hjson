@@ -1,0 +1,6 @@
+research: {
+   parent: fortress
+   research: [
+     nu-01ground-assembler
+   ]
+}
