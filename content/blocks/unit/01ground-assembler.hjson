@@ -28,7 +28,7 @@ plans: [
    {
    unit: reign
    requirements: [
-      dagger/20
+      mace/18
       ]
       time: 13300
    }
