@@ -5,24 +5,33 @@ droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
 category: units
-regionSuffix: "-4"
+itemCapacity: 1650
+liquidCapacity: 190
+researchCostMultiplier: 0.05
 consumes: {
    power: 3
+   items: [
+      silicon/1650
+   ]
+   liquid: {
+      liquid: cryofluid
+      amount: 3.5
+   }
 }
 plans: [
    {
    unit: arkyid
    requirements: [
-      surge-wall-large/1
+      crawler/15
       ]
-      time: 60
+      time: 4350
    }
    {
    unit: toxopid
    requirements: [
-      surge-wall-large/1
+      atrax/18
       ]
-      time: 60
+      time: 13300
    }
 ]
 research: 02droid-assembler
