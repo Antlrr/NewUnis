@@ -38,8 +38,8 @@ research: {
   parent: multiplicative-reconstructor
   objectives: [
        {
-        type: SectorCaptureObjective
-        sector: overgrowth
+        type: SectorComplete
+        preset: overgrowth
         planet: serpulo
        }
    ]
