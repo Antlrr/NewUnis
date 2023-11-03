@@ -4,9 +4,13 @@ category: units
 size: 2
 tier: 1
 consumes: {
-   power: 3
+   power: 9
    }
 research: 01ground-assembler
 requirements: [
-   silicon/1
+   lead/1500
+   titanium/1400
+   silicon/1800
+   phase-fabric/460
+   surge-alloy/240
 ]
