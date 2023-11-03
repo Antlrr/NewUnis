@@ -40,7 +40,6 @@ research: {
        {
         type: SectorComplete
         preset: overgrowth
-        planet: serpulo
        }
    ]
 }
