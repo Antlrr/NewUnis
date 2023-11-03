@@ -25,7 +25,7 @@ plans: [
    requirements: [
       dagger/20
       ]
-      time: 14400
+      time: 13400
    }
 ]
 research: multiplicative-reconstructor
