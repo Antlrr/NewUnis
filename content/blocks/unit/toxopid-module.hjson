@@ -1,0 +1,12 @@
+type: UnitAssemblerModule
+health: 10
+category: units
+size: 2
+tier: 5
+consumes: {
+   power: 3
+   }
+research: arkyid-module
+requirements: [
+   silicon/1
+]
