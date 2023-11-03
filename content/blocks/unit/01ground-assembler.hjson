@@ -34,7 +34,16 @@ plans: [
       time: 13300
    }
 ]
-research: multiplicative-reconstructor
+research: {
+  parent: multiplicative-reconstructor
+  objectives: [
+       {
+        type: SectorCaptureObjective
+        sector: overgrowth
+        planet: serpulo
+       }
+   ]
+}
 requirements: [
    lead/4500
    titanium/1800
