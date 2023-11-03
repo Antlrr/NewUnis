@@ -1,6 +1,6 @@
 type: UnitAssembler
 size: 4
-areaSize: 13
+areaSize: 14
 droneType: assembly-drone
 dronesCreated: 4
 droneConstructTime: 90
