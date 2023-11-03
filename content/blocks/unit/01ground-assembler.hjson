@@ -6,11 +6,16 @@ dronesCreated: 4
 droneConstructTime: 90
 category: units
 itemCapacity: 1650
+liquidCapacity: 190
 consumes: {
    power: 3
    items: [
       silicon/1650
    ]
+   liquid: {
+      liquid: cryofluid
+      amount: 3.5
+   }
 }
 plans: [
    {
@@ -18,17 +23,23 @@ plans: [
    requirements: [
       dagger/15
       ]
-      time: 4400
+      time: 4350
    }
    {
    unit: reign
    requirements: [
       dagger/20
       ]
-      time: 13400
+      time: 13300
    }
 ]
 research: multiplicative-reconstructor
 requirements: [
-   silicon/1
+   lead/4500
+   titanium/1800
+   thorium/950
+   silicon/4000
+   plastanium/550
+   phase-fabric/700
+   surge-alloy/900
 ]
