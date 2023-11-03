@@ -24,7 +24,7 @@ plans: [
       time: 60
    }
 ]
-research: multiplicative-reconstructor
+research: 01ground-assembler
 requirements: [
    silicon/1
 ]
