@@ -36,5 +36,11 @@ plans: [
 ]
 research: 02droid-assembler
 requirements: [
-   silicon/1
+   lead/4500
+   titanium/1800
+   thorium/950
+   silicon/4000
+   plastanium/550
+   phase-fabric/700
+   surge-alloy/900
 ]
