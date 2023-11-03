@@ -7,7 +7,7 @@ droneConstructTime: 90
 category: units
 consumes: {
    power: 3
-   Items: [
+   items: [
       silicon/700
    ]
 }
