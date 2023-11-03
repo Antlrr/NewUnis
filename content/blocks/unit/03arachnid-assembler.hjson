@@ -1,0 +1,30 @@
+type: UnitAssembler
+size: 4
+areaSize: 14
+droneType: assembly-drone
+dronesCreated: 4
+droneConstructTime: 90
+category: units
+consumes: {
+   power: 3
+}
+plans: [
+   {
+   unit: arkyid
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+   {
+   unit: toxopid
+   requirements: [
+      surge-wall-large/1
+      ]
+      time: 60
+   }
+]
+research: 02droid-assembler
+requirements: [
+   silicon/1
+]
