@@ -2,7 +2,7 @@ type: UnitAssemblerModule
 health: 10
 category: units
 size: 2
-tier: 2
+tier: 1
 consumes: {
    power: 3
    }
