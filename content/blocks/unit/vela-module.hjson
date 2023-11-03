@@ -1,0 +1,12 @@
+type: UnitAssemblerModule
+health: 10
+category: units
+size: 2
+tier: 2
+consumes: {
+   power: 3
+   }
+research: reign-module
+requirements: [
+   silicon/1
+]
