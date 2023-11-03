@@ -6,7 +6,7 @@ tier: 1
 consumes: {
    power: 3
    }
-research: ground-assembler
+research: 01ground-assembler
 requirements: [
    silicon/1
 ]
