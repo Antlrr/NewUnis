@@ -6,7 +6,7 @@ tier: 2
 consumes: {
    power: 3
    }
-research: reign-module
+research: multiplicative-reconstructor
 requirements: [
    silicon/1
 ]
