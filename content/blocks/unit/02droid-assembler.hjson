@@ -34,7 +34,6 @@ plans: [
       time: 13300
    }
 ]
-]
 research: 01ground-assembler
 requirements: [
    lead/4500
