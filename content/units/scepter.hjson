@@ -1,5 +1,5 @@
 research: {
-   parent: fortress
+   parent: nu-01ground-assembler
    objectives: [
      nu-01ground-assembler
    ]
